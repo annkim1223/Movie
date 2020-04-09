@@ -45,7 +45,6 @@ for one_file_name in glob.glob("deep_link_html/*.html"):
 # 	# except:
 # 	# 	pass
 
-
 df.to_csv("parsed_files/movie_deeplinks.csv")
 
 
