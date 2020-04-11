@@ -1,6 +1,6 @@
 CONTENTS OF THIS FILE
 ---------------------
-
+* Developer: Jaeyoung Kim
 * Status of this document.
 This document is a submission to ECON 8070 Class. 
 Comments on this document should be sent to jaeyouk@clemson.edu.
